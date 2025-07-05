@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🔮 About Me:
 Passionate about building full-stack AI-powered platforms and dynamic frontends with React, GSAP, and Tailwind. Currently diving deeper into Node.js, Express, MongoDB, and advanced JavaScript.
 
 
@@ -13,6 +13,28 @@ Passionate about building full-stack AI-powered platforms and dynamic frontends 
 ![](https://github-readme-stats.vercel.app/api?username=yashita13&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yashita13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashita13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+# 🚀 Projects
+
+### [🍹 Cocktail Craze – Animated E-Commerce Website](https://cocktail-gsap-ten.vercel.app/)
+Built a full-stack, production-ready e-commerce site for cocktail brands to showcase products and take orders online.  
+Features advanced GSAP animations for smooth user interactions and a responsive UI inspired by Awwwards.
+
+### [🛠️ CodeXCaliber – Hackathon Website for Google Developer Group IIIT Nagpur](https://codexcaliber.vercel.app/)
+Official website for CodeXCaliber hackathon. Contributed key sections like Projects, Sponsors, and FAQs.  
+Designed to promote open-source contributions and collaboration, inspired by GSoC.
+
+### [🍽️ MealMap – Mess Menu Portal for IIITN Hostellers](https://yashita13.github.io/MealMap/)
+Dynamic frontend portal to view daily meal schedules with day and time filters.  
+Created for CRISPR club recruitment at IIIT Nagpur.
+
+### [🧭 Ngp-Explore – Nagpur Tourism Guide](https://ngp-e.netlify.app/)
+Visually rich CSS-based website guiding tourists through Nagpur’s attractions.  
+Focused on animation and frontend aesthetics using advanced CSS techniques.
+
+---
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashita13&theme=radical&no-frame=true&no-bg=false&margin-w=4)
